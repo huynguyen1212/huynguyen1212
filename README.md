@@ -18,7 +18,7 @@ Hi, I'm Nguyen Quang Huy, a Software Fresher from Vietnam, currently, I'm learni
 
 📊 **My Skills:**
 
-OS: Linux
+OS: Linux <br/>
 Language: C++ for competive programming, Javascrips for software
 
 #### **Current Job:**

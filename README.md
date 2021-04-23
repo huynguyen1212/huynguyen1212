@@ -3,18 +3,14 @@ Leetcode
 
 Hi, I'm Nguyen Quang Huy, a Software Fresher from Vietnam, currently, I'm learning in Posts and Telecommunications Institute of Technology. Beside's programming, I enjoy reading and playing guitar
 
-GIF
+https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 
 Personal Stuffs:
-seedling I’m currently do with projects related to image processing.
-speech_balloon Ask me about anything, I am happy to help.
-mailbox How to reach me: quangduynb00@gmail.com
-memoResume
-Blog & Writing:
-Apart from coding, I also maintain a blog - you can find my articles on my website at duynotes
+I'm building some projects about ReactJS and ReactNative
+Ask me about anything, I am happy to help.
+mailbox How to reach me: huyro1212000@gmail.com
 
-bar_chart My Skills:
+My Skills:
 
 OS: Linux
-Language: C++ for competive programming, Java for software, Python for research
-Framework: Spring
+Language: C++ for competive programming, Javascrips for software

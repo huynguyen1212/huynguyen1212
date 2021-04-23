@@ -1,16 +1,20 @@
-### Hi there 👋
+Facebook
+Leetcode
 
-<!--
-**huynguyen1212/huynguyen1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Nguyen Quang Huy, a Software Fresher from Vietnam, currently, I'm learning in Posts and Telecommunications Institute of Technology. Beside's programming, I enjoy reading and playing guitar
 
-Here are some ideas to get you started:
+GIF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Personal Stuffs:
+seedling I’m currently do with projects related to image processing.
+speech_balloon Ask me about anything, I am happy to help.
+mailbox How to reach me: quangduynb00@gmail.com
+memoResume
+Blog & Writing:
+Apart from coding, I also maintain a blog - you can find my articles on my website at duynotes
+
+bar_chart My Skills:
+
+OS: Linux
+Language: C++ for competive programming, Java for software, Python for research
+Framework: Spring

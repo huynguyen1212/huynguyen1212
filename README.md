@@ -26,7 +26,7 @@ Hi, I'm Nguyen Quang Huy, a Software Fresher from Vietnam, currently, I'm learni
 
 Font-end Dev: 
 
-- Main: ReactJS
+- Main: ReactJS, Typescript
 - Other: ReactNative
 
 <p align="center" margin-top=30px>

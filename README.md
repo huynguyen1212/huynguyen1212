@@ -1,9 +1,5 @@
 #### My Bio  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-</a> <a href="https://www.facebook.com/profile.php?id=100028024058368">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/facebook.svg" />
-</a>
-
 Hi, I'm Nguyen Quang Huy, a Software Fresher from Vietnam. Currently, I'm learning in Posts and Telecommunications Institute of Technology
 
 ##### **Personal Stuffs:**

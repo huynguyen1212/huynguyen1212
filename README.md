@@ -4,25 +4,12 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/facebook.svg" />
 </a>
 
-Hi, I'm Nguyen Quang Huy, a Software Fresher from Vietnam. Currently, I'm learning in Posts and Telecommunications Institute of Technology. Beside's programming, I enjoy reading and playing guitar
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+Hi, I'm Nguyen Quang Huy, a Software Fresher from Vietnam. Currently, I'm learning in Posts and Telecommunications Institute of Technology
 
 ##### **Personal Stuffs:**
 
 - 🌱 I'm building some projects about ReactJS and ReactNative
-- 💬 Ask me about anything, I am happy to help.
 - 📫  How to reach me: huyro1212000@gmail.com
-
-📊 **My Skills:**
-
-- OS: Linux <br/>
-- Language: C++ for competive programming, Javascrips for software, C
-
-#### **Current Job:**
-
 
 Font-end Dev: 
 

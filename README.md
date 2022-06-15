@@ -1,4 +1,5 @@
-#### My Bio  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
+#### My Bio  
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> -->
 
 Hi, I'm Nguyen Quang Huy, a Junior Software Engineer from Vietnam. Currently, I'm learning in Posts and Telecommunications Institute of Technology
 

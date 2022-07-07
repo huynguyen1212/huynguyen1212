@@ -10,7 +10,7 @@ Hi, I'm Nguyen Quang Huy, a Junior Software Engineer from Vietnam. Currently, I'
 
 Font-end Dev: 
 
-- Main: ReactJS, Typescript, NextJS
+- Main: ReactJS, Typescript, NextJS, NodeJS
 - Other: ReactNative
 
 <p align="center" margin-top=30px>

@@ -8,7 +8,7 @@ Hi, I'm Nguyen Quang Huy, a Junior Software Engineer from Vietnam. Currently, I'
 - 🌱 I'm building some projects about ReactJS and ReactNative
 - 📫  How to reach me: huyro1212000@gmail.com
 
-Font-end Dev: 
+Dev: 
 
 - Main: ReactJS, Typescript, NextJS, NodeJS
 - Other: ReactNative

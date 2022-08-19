@@ -7,11 +7,6 @@ Hi, I'm Nguyen Quang Huy
 - 🌱 I'm building some projects about ReactJS
 - 📫  How to reach me: huyro1212000@gmail.com
 
-Dev: 
-
-- Main: ReactJS, Typescript, NextJS, NodeJS
-- Other: ReactNative
-
 <p align="center" margin-top=30px>
 <a href="https://github.com/huynguyen1212">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huynguyen1212&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

@@ -2,8 +2,6 @@
 
 Hi, I'm Nguyen Quang Huy
 
-- 🌱 I'm building some projects about ReactJS
-- 📫 How to reach me: huyro1212000@gmail.com
 
 <p align="center" margin-top=30px>
 <a href="https://github.com/huynguyen1212">
